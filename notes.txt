@@ -1,0 +1,2 @@
+Đây là file ghi chú thực hành Git.
+Đã thực hiện 3 commit đầu tiên.
